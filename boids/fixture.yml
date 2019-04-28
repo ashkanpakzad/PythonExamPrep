@@ -1,0 +1,1 @@
+{N_boids: 50, closeness: 10000, coll_avoid: 100, speed: 0.01, speed_match: 0.125}
